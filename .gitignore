@@ -1,0 +1,27 @@
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Directory for instrumented libs should not be cleaned up
+# around development
+lib/instrumented
+
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub/
+.pub-cache/
+
+# IDEs
+.idea/
+.vscode/
+.vscode-test/
+.vscode-server/
+.vscode-server-insiders/
+.vscode-test-explorer/
